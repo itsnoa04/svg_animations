@@ -1,0 +1,77 @@
+<svg width="169" height="228" viewBox="0 0 169 228" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame">
+<rect width="169" height="228" fill="white"/>
+<g id="phone">
+<g id="phone_2" filter="url(#filter0_d_35_577)">
+<path id="Vector" d="M125 13H48C38.0589 13 30 21.0589 30 31V199C30 208.941 38.0589 217 48 217H125C134.941 217 143 208.941 143 199V31C143 21.0589 134.941 13 125 13Z" fill="#FDFDFD"/>
+</g>
+<g id="skeleton">
+<path id="Ellipse 1" d="M49.5 40C53.6421 40 57 36.6421 57 32.5C57 28.3579 53.6421 25 49.5 25C45.3579 25 42 28.3579 42 32.5C42 36.6421 45.3579 40 49.5 40Z" fill="#EDEDED"/>
+<g id="Group 1">
+<path id="Rectangle 9" d="M131 26H119V28H131V26Z" fill="#EDEDED"/>
+<path id="Rectangle 10" d="M131 29H119V31H131V29Z" fill="#EDEDED"/>
+<path id="Rectangle 11" d="M131 32H119V34H131V32Z" fill="#EDEDED"/>
+</g>
+<g id="Group 2">
+<path id="Rectangle 12" d="M81 114H49C47.8954 114 47 114.895 47 116V143C47 144.105 47.8954 145 49 145H81C82.1046 145 83 144.105 83 143V116C83 114.895 82.1046 114 81 114Z" fill="#EDEDED"/>
+<path id="Polygon 1" d="M56.5 124.5L66.5 134.5L75.5 127.5L83 134V143C83 144.105 82.1046 145 81 145H49C47.8954 145 47 144.105 47 143V134L56.5 124.5Z" fill="#D9D9D9"/>
+</g>
+<g id="Group 3">
+<path id="Rectangle 12_2" d="M124 114H92C90.8954 114 90 114.895 90 116V143C90 144.105 90.8954 145 92 145H124C125.105 145 126 144.105 126 143V116C126 114.895 125.105 114 124 114Z" fill="#EDEDED"/>
+<path id="Polygon 1_2" d="M99.5 124.5L109.5 134.5L118.5 127.5L126 134V143C126 144.105 125.105 145 124 145H92C90.8954 145 90 144.105 90 143V134L99.5 124.5Z" fill="#D9D9D9"/>
+</g>
+<g id="Group 4">
+<path id="Rectangle 12_3" d="M81 158H49C47.8954 158 47 158.895 47 160V187C47 188.105 47.8954 189 49 189H81C82.1046 189 83 188.105 83 187V160C83 158.895 82.1046 158 81 158Z" fill="#EDEDED"/>
+<path id="Polygon 1_3" d="M56.5 168.5L66.5 178.5L75.5 171.5L83 178V187C83 188.105 82.1046 189 81 189H49C47.8954 189 47 188.105 47 187V178L56.5 168.5Z" fill="#D9D9D9"/>
+</g>
+<g id="Group 5">
+<path id="Rectangle 12_4" d="M124 158H92C90.8954 158 90 158.895 90 160V187C90 188.105 90.8954 189 92 189H124C125.105 189 126 188.105 126 187V160C126 158.895 125.105 158 124 158Z" fill="#EDEDED"/>
+<path id="Polygon 1_4" d="M99.5 168.5L109.5 178.5L118.5 171.5L126 178V187C126 188.105 125.105 189 124 189H92C90.8954 189 90 188.105 90 187V178L99.5 168.5Z" fill="#D9D9D9"/>
+</g>
+<path id="Rectangle 8" d="M110.5 79H64.5C59.8056 79 56 82.8056 56 87.5C56 92.1944 59.8056 96 64.5 96H110.5C115.194 96 119 92.1944 119 87.5C119 82.8056 115.194 79 110.5 79Z" fill="#EDEDED"/>
+<g id="text-skeliton">
+<rect id="text-skeliton-p2" x="47" y="66.5555" width="15.5555" height="7.19444" rx="3.59722" fill="#EFEFEF"/>
+<rect id="text-skeliton-p2_2" x="47" y="57.1" width="43.5554" height="7.19444" rx="3.59722" fill="#EFEFEF"/>
+<rect id="text-skeliton-p2_3" x="47" y="46" width="25.5555" height="7.19444" rx="3.59722" fill="#EFEFEF"/>
+<rect id="text-skeliton-p2_4" x="74.7773" y="46" width="25.5555" height="7.19444" rx="3.59722" fill="#EFEFEF"/>
+<rect id="text-skeliton-p1" x="65.6665" y="66.5555" width="61.3331" height="7.19444" rx="3.59722" fill="#EFEFEF"/>
+<rect id="text-skeliton-p1_2" x="91.6665" y="57.1" width="35.3332" height="7.19444" rx="3.59722" fill="#EFEFEF"/>
+<rect id="text-skeliton-p1_3" x="102.555" y="46" width="24.4444" height="7.19444" rx="3.59722" fill="#EFEFEF"/>
+</g>
+</g>
+<g id="bolt">
+<g id="bolt5">
+<path id="Ellipse 2" d="M124 123C128.418 123 132 119.418 132 115C132 110.582 128.418 107 124 107C119.582 107 116 110.582 116 115C116 119.418 119.582 123 124 123Z" fill="#44B95E"/>
+<path id="Vector_2" d="M124.333 112L121 115.6H124L123.667 118L127 114.4H124L124.333 112Z" stroke="white" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="bolt4">
+<path id="Ellipse 2_2" d="M80 123C84.4183 123 88 119.418 88 115C88 110.582 84.4183 107 80 107C75.5817 107 72 110.582 72 115C72 119.418 75.5817 123 80 123Z" fill="#44B95E"/>
+<path id="Vector_3" d="M80.3333 112L77 115.6H80L79.6667 118L83 114.4H80L80.3333 112Z" stroke="white" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="bolt3">
+<path id="Ellipse 2_3" d="M80 168C84.4183 168 88 164.418 88 160C88 155.582 84.4183 152 80 152C75.5817 152 72 155.582 72 160C72 164.418 75.5817 168 80 168Z" fill="#44B95E"/>
+<path id="Vector_4" d="M80.3333 157L77 160.6H80L79.6667 163L83 159.4H80L80.3333 157Z" stroke="white" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="bolt2">
+<path id="Ellipse 2_4" d="M123 168C127.418 168 131 164.418 131 160C131 155.582 127.418 152 123 152C118.582 152 115 155.582 115 160C115 164.418 118.582 168 123 168Z" fill="#44B95E"/>
+<path id="Vector_5" d="M123.333 157L120 160.6H123L122.667 163L126 159.4H123L123.333 157Z" stroke="white" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="bolt1">
+<path id="Rectangle 9_2" d="M110.5 79H64.5C59.8056 79 56 82.8056 56 87.5C56 92.1944 59.8056 96 64.5 96H110.5C115.194 96 119 92.1944 119 87.5C119 82.8056 115.194 79 110.5 79Z" fill="#44B95E"/>
+<path id="Vector_6" d="M88.3333 84L85 87.6H88L87.6667 90L91 86.4H88L88.3333 84Z" stroke="white" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_35_577" x="26" y="13" width="121" height="212" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_35_577"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_35_577" result="shape"/>
+</filter>
+</defs>
+</svg>

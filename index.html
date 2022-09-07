@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      :root {
+        --dark-color: #786eea;
+        --light-color: #43d2ff;
+      }
+      #dark {
+        fill: var(--dark-color);
+      }
+      #light {
+        fill: var(--light-color);
+      }
+
+      #dark1,
+      #dark2,
+      #light1 {
+        transition: all 1s ease;
+      }
+      #dark2 {
+        transform: translateX(-40%);
+        opacity: 0;
+      }
+      svg:hover #light1 {
+        transform: translateX(30%);
+        opacity: 0;
+      }
+      svg:hover #dark1 {
+        transform: translateX(40%);
+      }
+      svg:hover #dark2 {
+        transform: translateX(0%);
+        opacity: 0.7;
+      }
+
+      button {
+        padding: 5px 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: var(--dark-color);
+        color: white;
+        font-size: 1.2rem;
+        font-weight: 600;
+        margin-left: 10px;
+        cursor: pointer;
+        transition: all 0.5s ease;
+      }
+    </style>
+    <svg
+      width="120"
+      height="100"
+      viewBox="0 0 120 100"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g id="triangleLogo">
+        <g id="light">
+          <path
+            id="light1"
+            opacity="0.7"
+            d="M66.5 52.5981C68.5 51.4434 68.5 48.5566 66.5 47.4019L38 30.9474C36 29.7927 33.5 31.2361 33.5 33.5455V66.4545C33.5 68.7639 36 70.2073 38 69.0526L66.5 52.5981Z"
+          />
+        </g>
+        <g id="dark">
+          <path
+            id="dark1"
+            opacity="0.7"
+            d="M45.5 52.5981C47.5 51.4434 47.5 48.5566 45.5 47.4019L17 30.9474C15 29.7927 12.5 31.2361 12.5 33.5455V66.4545C12.5 68.7639 15 70.2073 17 69.0526L45.5 52.5981Z"
+          />
+          <path
+            id="dark2"
+            opacity="0.7"
+            d="M66.5 52.5981C68.5 51.4434 68.5 48.5566 66.5 47.4019L38 30.9474C36 29.7927 33.5 31.2361 33.5 33.5455V66.4545C33.5 68.7639 36 70.2073 38 69.0526L66.5 52.5981Z"
+          />
+        </g>
+      </g>
+    </svg>
+    <a href="./screen.html">
+      <button>
+        <h2>Next</h2>
+      </button>
+    </a>
+    <script>
+      const svg = document.getElementById("triangleLogo");
+      svg.onmouseover = (e) => {
+        const colors = [
+          "#786eea",
+          "#43d2ff",
+          "#F079AB",
+          "#CA79F0",
+          "#A09AF0",
+          "#7990F0",
+          "#79F0F0",
+          "#79F0A0",
+          "#79F079",
+          "#F0F079",
+          "#F0A079",
+          "#F07979",
+        ];
+        const dark = colors[Math.floor(Math.random() * colors.length)];
+        const light = colors[Math.floor(Math.random() * colors.length)];
+        document.documentElement.style.cssText = `--dark-color: ${dark}; --light-color: ${light};`;
+      };
+    </script>
+  </body>
+</html>
